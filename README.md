@@ -29,11 +29,12 @@ ridership (only those using the app) per day.
 - NFR-03: Reliability: The system shall securely store passenger accounts and ticket records and maintain
           reliable operation during normal usage.
 ## Success criteria
-- The application should be very user-friendly and fast.
+
 - Passengers satisfaction should be atleast 60 percent.
 - It should reduce the long ques by 30%.
 - The Passenger can open app’s tracker in 10 seconds during rush hours.
 - At least 7000 people should download the app in the first month.
+- The application should be very user-friendly and fast.(Ambigous requirement. Not measureable)
 ## Assumptions and open questions
 - Assumption A-01: [State a proposed assumption to validate.]
 - Question Q-01: [Ask about an unresolved rule or stakeholder need.]
