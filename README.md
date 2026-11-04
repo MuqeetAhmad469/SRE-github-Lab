@@ -1,4 +1,4 @@
-# Public Transport System
+# PUBLIC TRANSPORT SYSTEM
 ## Overview
 In this modern era, public transportation is a very important part of daily life. Our project is about creating a
 centralized software application for the Public Transport System in Punjab, which includes the Metro buses, 
